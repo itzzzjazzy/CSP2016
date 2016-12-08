@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Please update already'  # Only 10 chars displayed - "100 crew" is desired name
+team_name = '100 crew'  # Only 10 chars displayed - "100 crew" is desired name
 strategy_name = ''
 strategy_description = ''
     
